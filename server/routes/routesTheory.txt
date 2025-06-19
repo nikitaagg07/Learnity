@@ -1,0 +1,33 @@
+
+// ROUTES: routes are the definitions of the endpoints (URIs:Uniform Resource Identifier is a system for identifying resources such as webpage,image etc). They determine how the server should respond to client requests for specific URL's.
+
+// while URL(Uniform Resource Locator) is a type of URI that specifies a resources location
+
+//API Endpoints: it is a specific URL where requests are sent to interact with the API
+
+just like a webpage is rendered,API's can use HTTP requests to get information from the web application or the web server.
+
+API's are typically REST or SOAP and both are used to access web services. 
+    1.SOAP relies solely on XML to provide messaging services
+
+    2.REST offers more lightweight method using URLs in most cases to send or recieve information.
+    4 types of different HTTP in REST: {GET,POST,DELETE,PUT} to perform tasks.
+
+    REST-bases web services output data in Command seperated values(CSV), JSON(javascroipt object notation),RSS (really simple syndication).
+
+    Can obtain output in a form that is easy to parse withing the language u need for ur application.
+
+
+API ENDPOINT: an endpoint is one end of communication channel.
+When an API interacts with another system,the touchpoints of this communication are considered as touchpoints.
+Each endpoint is the location from which API's can access the resources they need to carry out their function.
+
+API's work using 'requests' and 'responses'. When an api requests information from a web appl. or web server,it will recieve a response. The place that API's send requests and where resources lives,is called an endpoint.
+
+// a ROUTE typically includes:
+1. Path: URL pattern to match
+2. HTTP Method: type of request (GET,POST,PUT,DELETE)
+2. Handler Fucnction: The function that gets executed when the route is matched
+
+routes map incoming requests to specific controller functions. a route is a URL pattern that triggers a specific function when a request matches it.
+This function,often called a route handler, processed the incoming routes and sends an appropriate response.

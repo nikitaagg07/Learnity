@@ -1,0 +1,30 @@
+
+//CONTROLLERS: are functions or classes that handle the logic for a specific route. 
+They are repsonsible for processing the incoming request,interacting with database if necessary and returning a response.
+
+using controllers helps to seperate the route definitions from the business logic,making my code more organised and maintainable.
+
+A purpose of controller in Express.js typically includes:
+    1.Interact with databases or other data sources.
+    2.Process request data.
+    3.Perform calculations or validations.
+    4.Prepare response data.
+
+Controllers are like the brains behind the routes. They contain the logic needed to handle the request and generate a response.
+
+
+// REST API's [ Representational State Transfer API ] is a s/w architectural style for creating web services. 
+It defines a set of rules for how applications can communicate over the internet.
+
+- A REST API allows different applications to share data and functionality without needing to know the internal workings of each other.
+
+- The router directs incoming HTTP requests to the appropriate controller based on the URL and HTTP method. 
+- Controllers contain the logic to Process tese requests, interact with services or databases and return appropriate responses. 
+
+    1.  a controller includes all the backend logic that can be performed according to HTTP requests, including the algorithms that should be executed for particular requests.
+
+    2. Routes, on the other hand, accept or capture all HTTP requests that come to the server for certain operations and direct these requests to the appropriate controller.
+
+    Essentially, a route shows the path where the request should go in the controller module and specifies the operation that should happen.
+
+    
