@@ -1,0 +1,637 @@
+[{
+  "_id": {
+    "$oid": "678d538a6b9082ea2255c4ec"
+  },
+  "title": "MongoDB",
+  "category": "Programming",
+  "level": "Beginner",
+  "primaryLanguage": "English",
+  "subtitle": "Database Creation and Development Course",
+  "description": "This MongoDB course covers the fundamentals of NoSQL databases, focusing on document-based data storage. You’ll learn how to perform CRUD operations, design schemas, and use MongoDB's powerful asjdjasbjabsd querying capabilities. ajsdjasnjdasdkjba. \n",
+  "pricing": 7999,
+  "objectives": "Understand the basics of MongoDB, perform CRUD operations, and design efficient document schemas.ahsdhasbd",
+  "welcomeMessage": "Welcome to the MongoDB course! Get ready to master one of the most powerful NoSQL databases.",
+  "image": "data:image/png;base64,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A5k8RGMaFJXHojCwVASojKktaGydEcbR5x35DToDnFNfzIC8Ck3hJu32tDQaKpaeXhruAFxKVHM9awgW16Fva15fX0/xlNMZqAfL88OLpsqUk8rRNc7mm76PwerHeffsM3zosG5GJ3lWzQb9BFbtBcJ6cffFaexgb2Zp1dXFt1SfcKNkBWsUfrfalRg+SgAYh9vYexSWKPfKV7Co8JMToqFR5UfWmnqDOVQVAb+1llefDslwhVftfoThxSL40qxSIiPeUfT+5q/qIcjXcW/l2dNmaTAYlJqlfDCaNknTS99v6mTtO6DRRQS90lB3q/x5r02LJZOm9OUT2m73LmTvLBS6ywaSh1GwKrQA2O5eQehn3I8lfUKpZvN8cUX36FX13MWUMuQp2uN+s9ua6TPjUvTH8/Mh8B5ySGJXciw8rR3XjnN/+7sMrNJ3n6wOH170zAB61qWXiSWTCqsOKLYDxLYDGYwW4Nrqjy5G54O2NlJ1gIP56omF0AfEnlhAudhfI/+wnhkPEVzIc+fQyd4FsI/e1nK13D/+ic7qpX+jd+ftlDtr42IYcbfR4cTvf+6xVvffKun7OO6zN7ncvz6V03dfVm/2v/AVTrG+jFtpXWuPe8VfUglZ2Xbw/M2jf//6sPwkf9P/2zEGElfqDoItw8fr5VLVN1Lid+Ky7mn6l19/+S1/M/VZysFlhqvIl+BoOU+4iPKFtcc7vNWfpp+bmRv3FxTAR3G3JyP+0jd+GmCPd3hTzufPA9j/UUKuQEXegePhrdaSjL6+gT+Pa593w+FT/8ONd0E50aZHNPqLYqdTGU2kY/+2PXBPVt3+4ms81w4XOszGaeHoW1vVnqzO+8Wk90D2EpyV1CRvPKoewJNL+7AKRv3O17nIMkB35sUO7HWb+Itrr9+yWHzFoNArOIfyasZ+v73zlcwKY1+lr3S639d+rA6hR3x9md904suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4suw4uvopn9t6P9I0q6MmHL/Ayz9CtUDxFk1AAAAAElFTkSuQmCC",
+  "date": {
+    "$date": "2025-01-19T19:33:30.978Z"
+  },
+  "curriculum": [
+    {
+      "title": "What is MongoDB?",
+      "videoUrl": "https://youtu.be/ExcRbA7fy_A?si=ckeY-pxwRprtVSw7",
+      "freePreview": true,
+      "public_id": ""
+    },
+    {
+      "title": "Installing MongoDB",
+      "videoUrl": "https://youtu.be/gDOKSgqM-bQ?si=uGKZ1woDlU7FLTyp",
+      "freePreview": "false",
+      "public_id": ""
+    },
+    {
+      "title": "Collections & DOcuments",
+      "videoUrl": "https://youtu.be/ojKJqNQYaOI?si=-METt0JHwz469rhE",
+      "freePreview": "false",
+      "public_id": ""
+    },
+    {
+      "title": "Using MongoDB Compass",
+      "videoUrl": "https://youtu.be/bJSj1a84I20?si=8e4yd9D0vt1lW-L1",
+      "freePreview": "false",
+      "public_id": ""
+    }
+  ],
+  "isPublished": true,
+  "__v": 0,
+  "instructor": {
+    "$oid": "680ade2fa10068a3c1d1f81f"
+  },
+  "status": "draft"
+},
+{
+  "_id": {
+    "$oid": "678d5ca254a1d407e416aab4"
+  },
+  "title": "Full Stack Developer",
+  "category": "Programming",
+  "level": "Advanced",
+  "primaryLanguage": "French",
+  "subtitle": "MERN stack development",
+  "description": "This MERN Stack course teaches full-stack web development using MongoDB, Express.js, React, and Node.js. You’ll learn to build dynamic, responsive web applications from front-end to back-end, integrating databases, authentication, and APIs.\n",
+  "pricing": 4000,
+  "objectives": "ajbskdjabs",
+  "welcomeMessage": "asdvjasd",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFsxL1b7vkvEZJaDBGd3iLI2lbJKMzwsvtCw&s",
+  "date": {
+    "$date": "2025-01-19T20:12:18.724Z"
+  },
+  "curriculum": [
+    {
+      "title": "intro3",
+      "videoUrl": "asjbda",
+      "freePreview": false,
+      "public_id": ""
+    }
+  ],
+  "isPublished": true,
+  "__v": 1,
+  "instructor": {
+    "$oid": "680ae2f1a10068a3c1d1f95f"
+  },
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-06-19T20:27:40.673Z"
+  },
+  "enrolledLearners": [],
+  "updatedAt": {
+    "$date": "2025-06-19T20:27:40.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "678e99a4cc749f157bc07cb6"
+  },
+  "title": "Finance",
+  "category": "Marketing",
+  "level": "Intermediate",
+  "primaryLanguage": "English",
+  "subtitle": "Learn Financial Calculations",
+  "description": "The Financial Balance Sheet course is designed to introduce you to the key concepts of financial accounting. You will learn how to prepare,masdjbasdjkas analyze, and interpret balance sheets to assess the financial health of a business.asdvhabhajdsaj\n",
+  "pricing": 5000,
+  "objectives": "Learn React basics, Components, State management, Hooks",
+  "welcomeMessage": "Hello Students",
+  "image": "https://lntedutech.com/wp-content/uploads/2024/04/Personal-Finance-Management-scaled-1.jpg",
+  "date": {
+    "$date": "2025-01-20T18:44:52.132Z"
+  },
+  "curriculum": [
+    {
+      "title": "Introduction",
+      "videoUrl": "https://drive.google.com/file/d/1HHMViXemvlNDFi_-UUDimwG5vKtX7cMx/view?usp=sharing",
+      "freePreview": true,
+      "public_id": ""
+    },
+    {
+      "title": "Balance Sheet Basics",
+      "videoUrl": "https://drive.google.com/file/d/1SOE4mp9O3m6xPjAD5I4vJ9UYGpbQ_Bhh/view?usp=sharing",
+      "freePreview": "true",
+      "public_id": ""
+    },
+    {
+      "title": "Advanced Calculations",
+      "videoUrl": "https://www.youtube.com/watch?v=rG-Lb7-7JS4",
+      "freePreview": "false",
+      "public_id": ""
+    },
+    {
+      "title": "Project",
+      "videoUrl": "https://www.youtube.com/watch?v=rG-Lb7-7JS4",
+      "freePreview": "false",
+      "public_id": ""
+    }
+  ],
+  "isPublished": true,
+  "__v": 1,
+  "instructor": {
+    "$oid": "680ae1fea10068a3c1d1f910"
+  },
+  "enrolledLearners": [
+    {
+      "$oid": "680af2848ceb5a9a8dda9111"
+    }
+  ],
+  "status": "draft"
+},
+{
+  "_id": {
+    "$oid": "6799dee8aa71a118aa1ec26d"
+  },
+  "title": "Kotlin",
+  "category": "Programming",
+  "status": "draft",
+  "level": "Intermediate",
+  "primaryLanguage": "English",
+  "subtitle": "Learn Android Development from A to Z!",
+  "description": "This Kotlin course teaches you the fundamentals of programming with Kotlin, focusing on syntax, data types, and key features. You’ll learn how to write clean and efficient Kotlin code for building Android applications and backend services.ahsdbasbdjasdj. \n",
+  "pricing": 10000,
+  "objectives": "Understand Kotlin syntax and data types, Learn to work with functions and control flow, Master object-oriented programming concepts in Kotlin, Develop Android applications using Kotlin, Explore Kotlin's features for backend development.\n",
+  "welcomeMessage": "",
+  "image": "https://i.ytimg.com/vi/32JW8-23C5A/maxresdefault.jpg",
+  "date": {
+    "$date": "2025-01-29T07:55:20.131Z"
+  },
+  "curriculum": [
+    {
+      "title": "Introduction to App Development",
+      "videoUrl": "https://drive.google.com/file/d/19ctnLj-ekoH5UtuKca2wOSjSxqulp1Qq/view?usp=sharing",
+      "freePreview": false,
+      "public_id": ""
+    },
+    {
+      "title": "Basics of Kotlin",
+      "videoUrl": "https://drive.google.com/file/d/19ctnLj-ekoH5UtuKca2wOSjSxqulp1Qq/view?usp=sharing",
+      "freePreview": "false"
+    }
+  ],
+  "isPublished": true,
+  "learners": [],
+  "__v": 0,
+  "instructor": {
+    "$oid": "680ae2f1a10068a3c1d1f95f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799df4caa71a118aa1ec274"
+  },
+  "title": "C++ Advanced",
+  "category": "Programming",
+  "status": "draft",
+  "level": "Advanced",
+  "primaryLanguage": "Spanish",
+  "subtitle": "DSA in C++",
+  "description": "The Advanced C++ course dives deep into object-oriented programming, memory management, and advanced data structures. You’ll explore topics like templates, exception handling, multi-threading, and optimization techniques. \n",
+  "pricing": 4000,
+  "objectives": "",
+  "welcomeMessage": "",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA3xz3QkZJ9r2PBJZ0MpEgmjZ4Y7fNxA9AzA&s",
+  "date": {
+    "$date": "2025-01-29T07:57:00.488Z"
+  },
+  "curriculum": [
+    {
+      "title": "",
+      "videoUrl": "",
+      "freePreview": false,
+      "public_id": ""
+    }
+  ],
+  "isPublished": true,
+  "learners": [],
+  "__v": 0,
+  "instructor": {
+    "$oid": "680ade2fa10068a3c1d1f81f"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a73c87ae8528a8d5bb179b"
+  },
+  "title": "Java in Depth",
+  "category": "programming",
+  "status": "draft",
+  "level": "Beginner",
+  "primaryLanguage": "English",
+  "subtitle": "Learn A to Z Java for beginners!",
+  "description": "The Java Course is designed for beginners to learn the fundamentals of Java programming. It covers essential concepts such as data types, variables, control structures, object-oriented programming (OOP), exception handling, and basic file operations.",
+  "pricing": 1800,
+  "objectives": "Variables & Data Types, Control Flow Statements, Object-Oriented Programming (OOP), Exception Handling, File Handling & I/O Operations",
+  "welcomeMessage": "Hello Learners! Dive into the world of Java!",
+  "image": "data:image/jpeg;base64,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Gr0cZvejpKBv3dYiDbo4ndokbb36qXOpxyrPw7PDvYBuxIcH1b2kDXo4769jnm2nd5rjfV9NqpOHhnXfJP2eVbu3qDUvkidTsh6TOxt3Aht75bZVmuqry7Sxbh1/E5o7LRChLmHjW0zZI5I3atkaWHucCD8VmJ2ndrevNWa+qp/7L63/ABKf+p/+1T/a6KSeGZPKYTbYTZh1FFIJCx00rruLbkZW+q0EgdZPioubLzz0WGj0vg1nfvKUWXFNV/thu+M8rp6ZzWPebvY+4aXc3NI4E8wpWHUcsbWVeq4f4lueiKt3c4iTYxxDtMjbd+mqke1Y0P8ADs/9ylOA7tI4wXVLxM+xDWNuI2kjib6uI8AuF9VM9IS8PDYjrfq1dl9gaqnq4J3vgLInEnK5xOrXDS7e1ZyaitqbNdPoMmPLF5mOizFDW4gICAgICAgICDxqaaORuWRjJG9Tmhw8isxMx2a2rW3eEaxbY/C8ueSFsQva7C+MDwboB4LtXNk8pRMmj0+28xs4J2HwmX5qsI7BLFJ+V119oyx3hF9h09vhv+4d18fGOscP5Gn4OCe1T51Pw2v+W7P9m844Yg8D2Xj/AOix7TX+Fn8Ov/qf3+od20h9fEHnr9E/nIs+0x5VPw+3nk/v9Xm7d7Qt1mrj23dEz43T2i/lVidDij48j5//ADNnYNXzicjl0jpPdGLLPPnntGx4WjpG8zu3aHH6ZumG4bJM7k8RiJveXm587LW2O3/ss3rnpHTBj3+zeGDYjWH/AI2YU0B4wQHVw+y9/V4nwWnPSnwRu6+Fmy/NnaPSEso6SOKNscbQyNgytaOAAXCZmesptKxSNoe6w2aeLV7YIJZnAlsTS4gC5NuS2rXmnZpkvyVm3oomjpZq+ssNZJ3l7zxDQTdzj2D9FaWmMdOrzNa2z5fzlfVBStiijiYLMjaGN7miwVVM7zu9NSkUrFY8mwsNxAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEGlW4VTy/Owwy3+0xrviFtFrR2lztipbvEOVNsTh7v+3aw9bC5nwNlvGa/q4zo8M/5Wo7d7RddSB1CU2WfaLtPYMX1/V5ndxQc+nPfJf8ln2i7E8Pw+e/6tmm2Cw1v9xn9tznLE57y2rocMeTrUmAUcfqU8DD1hjb+dlpOS095dq4Mde1YdEBaOzKAgIMOFxbig5uE4FT07pHQxtYZXZnWH/iOpvZ2ra2S1tt3HFgpjmZrHd01q7CAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg//2Q==",
+  "date": {
+    "$date": "2025-02-08T11:14:15.182Z"
+  },
+  "curriculum": [
+    {
+      "title": "Introduction",
+      "videoUrl": "asd",
+      "freePreview": false,
+      "public_id": "",
+      "_id": {
+        "$oid": "67a7a2709f6ec49ff7a5b886"
+      }
+    },
+    {
+      "title": "More about OOP",
+      "videoUrl": "asd",
+      "freePreview": false,
+      "public_id": "",
+      "_id": {
+        "$oid": "67a87397df3a4a207c5f7641"
+      }
+    }
+  ],
+  "isPublished": true,
+  "learners": [],
+  "__v": 2,
+  "enrolledLearners": [
+    {
+      "$oid": "6799c69168f05e54ada920ac"
+    },
+    {
+      "$oid": "67c9f238fa52a7a736a79867"
+    }
+  ],
+  "instructor": {
+    "$oid": "67a7275fc1c58db7bbcf44f4"
+  },
+  "createdAt": {
+    "$date": "2025-05-05T10:47:34.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T10:47:34.182Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a77379e72e5a152368e0e0"
+  },
+  "title": "Java Advanced",
+  "category": "Programming",
+  "status": "draft",
+  "level": "Advanced",
+  "primaryLanguage": "English",
+  "subtitle": "Advanced Level Java",
+  "description": "The Java Advanced Course dives deeper into multithreading, collections framework, Java Stream API, networking, JDBC, and design patterns. Learners will explore advanced topics like Spring Boot, Hibernate, microservices architecture, and RESTful API development.",
+  "pricing": 5000,
+  "objectives": "Multithreading & Concurrency, Collections Framework & Stream API, JDBC & Database Connectivity, Spring Boot & Microservices, RESTful API Development",
+  "welcomeMessage": "Hi there!",
+  "image": "data:image/jpeg;base64,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",
+  "date": {
+    "$date": "2025-02-08T15:08:41.424Z"
+  },
+  "curriculum": [],
+  "isPublished": true,
+  "learners": [],
+  "__v": 2,
+  "enrolledLearners": [
+    {
+      "$oid": "6799c69168f05e54ada920ac"
+    },
+    {
+      "$oid": "67a7b2913d5f730315c10dab"
+    }
+  ],
+  "instructor": {
+    "$oid": "67a7275fc1c58db7bbcf44f4"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a7cbb4278602a879328a9e"
+  },
+  "title": "NextJS",
+  "category": "Programming",
+  "status": "draft",
+  "level": "Advanced",
+  "primaryLanguage": "English",
+  "subtitle": "Build Fast, Modern Web Apps with Next.js: From Static to Full-Stack",
+  "description": "Next.js is a powerful React framework that enables server-side rendering, static site generation, and optimized performance for web applications. This course covers everything from setting up a Next.js project to deploying a production-ready application. You'll learn about API routes, and integrating third-party services.",
+  "pricing": 10000,
+  "objectives": "Server-side rendering (SSR) and static site generation (SSG), Dynamic routing and API routes, Data fetching with getServerSideProps and getStaticProps, Authentication and middleware in Next.js, Optimizing performance and deploying Next.js apps",
+  "welcomeMessage": "",
+  "image": "data:image/jpeg;base64,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",
+  "date": {
+    "$date": "2025-02-08T21:25:08.156Z"
+  },
+  "isPublished": true,
+  "enrolledLearners": [
+    {
+      "$oid": "67a7b2913d5f730315c10dab"
+    },
+    {
+      "$oid": "67af041d64c89be42035ca18"
+    },
+    {
+      "$oid": "67af53833b6834a0895f8457"
+    },
+    {
+      "$oid": "6799c69168f05e54ada920ac"
+    },
+    {
+      "$oid": "67c9f238fa52a7a736a79867"
+    }
+  ],
+  "curriculum": [
+    {
+      "title": "What is Next.js?",
+      "videoUrl": "https://drive.google.com/file/d/1KKU3MThtbJ8lLYUNFTLUeuvO9efuqPXV/view?usp=sharing",
+      "resources": [],
+      "freePreview": true,
+      "public_id": "",
+      "_id": {
+        "$oid": "67af0a3264c89be42035ccb9"
+      }
+    },
+    {
+      "title": "Client-Side vs Server-Side Rendering (CSR vs SSR)",
+      "videoUrl": "as",
+      "resources": [],
+      "freePreview": false,
+      "public_id": "",
+      "_id": {
+        "$oid": "67af0a3364c89be42035ccba"
+      }
+    },
+    {
+      "title": "Static Site Generation (SSG) vs Server-Side Rendering (SSR)",
+      "videoUrl": "ss",
+      "resources": [],
+      "freePreview": false,
+      "public_id": "",
+      "_id": {
+        "$oid": "67af0a3364c89be42035ccbb"
+      }
+    },
+    {
+      "title": "Setting Up a Next.js Project",
+      "videoUrl": "as",
+      "resources": [],
+      "freePreview": false,
+      "public_id": "",
+      "_id": {
+        "$oid": "67af0a3364c89be42035ccbc"
+      }
+    },
+    {
+      "title": "Dynamic Routing & Catch-All Routes",
+      "videoUrl": "ss",
+      "resources": [],
+      "freePreview": false,
+      "public_id": "",
+      "_id": {
+        "$oid": "67af0a3364c89be42035ccbd"
+      }
+    },
+    {
+      "title": "Styling in Next.js",
+      "videoUrl": "s",
+      "resources": [],
+      "freePreview": false,
+      "public_id": "",
+      "_id": {
+        "$oid": "67af0a3364c89be42035ccbe"
+      }
+    },
+    {
+      "title": "State Management in Next.js",
+      "videoUrl": "ff",
+      "resources": [],
+      "freePreview": false,
+      "public_id": "",
+      "_id": {
+        "$oid": "67af0a3364c89be42035ccbf"
+      }
+    }
+  ],
+  "__v": 5,
+  "instructor": {
+    "$oid": "67a7c87f47fd8824a1f796d5"
+  }
+},
+{
+  "_id": {
+    "$oid": "67af544b3b6834a0895f859b"
+  },
+  "title": "MySQL",
+  "category": "Programming",
+  "status": "published",
+  "level": "Beginner",
+  "primaryLanguage": "English",
+  "subtitle": "Mastering Relational Databases with MySQL: From Basics to Advanced Queries",
+  "description": "Dive into the world of structured data with this comprehensive MySQL course. Whether you're a beginner or looking to enhance your SQL skills, this course will guide you through database design, complex queries, joins, stored procedures, indexing, and optimization techniques. Perfect for web developers, data analysts, and backend engineers aiming to master one of the most popular relational database systems.",
+  "pricing": 4999,
+  "objectives": "",
+  "welcomeMessage": "",
+  "image": "data:image/png;base64,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",
+  "date": {
+    "$date": "2025-02-14T14:33:47.064Z"
+  },
+  "curriculum": [
+    {
+      "title": "Intro",
+      "videoUrl": "https://drive.google.com/file/d/1zJbmlMtmLp6MXORmX4DYfZyEitOhDLMp/view?usp=drive_link",
+      "freePreview": false,
+      "public_id": "",
+      "_id": {
+        "$oid": "67af544b3b6834a0895f859c"
+      }
+    }
+  ],
+  "isPublished": true,
+  "enrolledLearners": [],
+  "__v": 0,
+  "instructor": {
+    "$oid": "67a7c87f47fd8824a1f796d5"
+  },
+  "createdAt": {
+    "$date": "2025-06-19T20:26:30.745Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-19T20:26:30.775Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b339f7f4e2ed70b737c7ef"
+  },
+  "title": "PostgreSQL",
+  "category": "Programming",
+  "status": "published",
+  "level": "Intermediate",
+  "primaryLanguage": "English",
+  "subtitle": "Efficient Data Management with PostgreSQL: Explore Features Beyond SQL",
+  "description": "Unlock the power of PostgreSQL — an advanced, open-source relational database. This course covers core concepts like schema design and query building, while also introducing powerful PostgreSQL-specific features such as JSON support, full-text search, and custom functions. Ideal for developers and data professionals seeking both performance and flexibility in database management.",
+  "pricing": 1500,
+  "objectives": "",
+  "welcomeMessage": "",
+  "image": "data:image/png;base64,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",
+  "date": {
+    "$date": "2025-02-17T13:30:31.155Z"
+  },
+  "curriculum": [
+    {
+      "title": "Introduction",
+      "videoUrl": "https://drive.google.com/file/d/1dLLBOk-wD5ZIQRG7j_C_-1qKdFYXj63c/view?usp=drive_link",
+      "freePreview": true,
+      "public_id": "",
+      "_id": {
+        "$oid": "67b339f7f4e2ed70b737c7f0"
+      }
+    },
+    {
+      "title": "new module-1",
+      "videoUrl": "https://drive.google.com/file/d/1dLLBOk-wD5ZIQRG7j_C_-1qKdFYXj63c/view?usp=drive_link",
+      "freePreview": false,
+      "public_id": "",
+      "_id": {
+        "$oid": "67b33a1af4e2ed70b737c810"
+      }
+    }
+  ],
+  "isPublished": true,
+  "enrolledLearners": [],
+  "__v": 0,
+  "instructor": {
+    "$oid": "67a7c87f47fd8824a1f796d5"
+  },
+  "createdAt": {
+    "$date": "2025-06-16T09:42:24.818Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-16T09:42:24.864Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6815417fc8e9b5c5cd2f305c"
+  },
+  "title": "Intro to JavaScript",
+  "category": "Programming",
+  "status": "published",
+  "level": "Beginner",
+  "primaryLanguage": "English",
+  "subtitle": "Learn JavaScript from scratch",
+  "description": "Embark on a comprehensive journey through JavaScript with this full-length course designed for both beginners and those looking to enhance their skills. Covering fundamental concepts to advanced topics, this course offers in-depth tutorials, practical examples, and real-world applications to solidify your understanding of JavaScript. Whether you're starting from scratch or aiming to refine your knowledge, this course provides the tools and insights needed to become proficient in JavaScript development.",
+  "pricing": 4999,
+  "objectives": "",
+  "welcomeMessage": "",
+  "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220714150931/JavaScript-Introduction.jpg",
+  "instructor": {
+    "$oid": "67c9f9c5fa52a7a736a79871"
+  },
+  "date": {
+    "$date": "2025-05-02T22:04:47.130Z"
+  },
+  "curriculum": [
+    {
+      "title": "Variables and Data Types",
+      "videoUrl": "https://youtu.be/ajdRvxDWH4w?si=52GWdKaUntXmTjK5",
+      "freePreview": true,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "Operators and Conditional Statements",
+      "videoUrl": "https://youtu.be/Zg4-uSjxosE?si=UoRBsGKesnCv3HUR",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "Loops and Strings",
+      "videoUrl": "https://youtu.be/UmRtFFSDSFo?si=YXOzo3158DumkeC2",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "Arrays",
+      "videoUrl": "https://youtu.be/gFWhbjzowrM?si=siRy0K7IBDYgHbYu",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "Functions and Methods",
+      "videoUrl": "https://youtu.be/P0XMXqDGttU?si=gARv5Lwipa0to3lX",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "Dom: Document  Object Model (Part 1)",
+      "videoUrl": "https://youtu.be/7zcXPCt8Ck0?si=pd5xNbg7fHIM2OFL",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "Dom: Document  Object Model (Part 2)",
+      "videoUrl": "https://youtu.be/fXAGTOZ25H8?si=v4dbA7aykVyIiM7f",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "Events in JavaScript",
+      "videoUrl": "https://youtu.be/_i-uLJAh79U?si=txIQiYCAO0mrkjKU",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "JS Project | Tic-Tac-Toe",
+      "videoUrl": "https://youtu.be/SqrppLEljkY?si=JuZXYl6A6jz3jplP",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "Mini Project - Stone Paper Scissor Game",
+      "videoUrl": "https://youtu.be/_V33HCZWLDQ?si=vKQANRHw1aPTYg20",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "Classes and Objects",
+      "videoUrl": "https://youtu.be/N-O4w6PynGY?si=Gt-heFlDiNtzqXV7",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "Callback, Promises and Async Await",
+      "videoUrl": "https://youtu.be/d3jXofmQm44?si=eidvVmii_daSl8fq",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    },
+    {
+      "title": "Fetch API with Project",
+      "videoUrl": "https://youtu.be/CyGodpqcid4?si=-Ft3ZL-ip9-rS39L",
+      "freePreview": false,
+      "public_id": "",
+      "resources": []
+    }
+  ],
+  "isPublished": true,
+  "enrolledLearners": [],
+  "createdAt": {
+    "$date": "2025-06-16T09:33:57.798Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-16T09:33:57.908Z"
+  }
+}]
