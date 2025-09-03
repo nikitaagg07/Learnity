@@ -9,7 +9,6 @@
 - 📹 **Live Lectures** – Schedule and join classes via Jitsi with session recording support.
 - 🧠 **AI Proctoring** – Facial recognition during exams using face-api.js.
 - 💬 **Real-Time Chat** – Socket.io-powered messaging for learners and instructors.
-- 💳 **Payment Integration** – Secure course payments via UPI, Cards, or PayPal.
 - 🌐 **Multilingual Support** – Translate course content dynamically using Google Translate API.
 - 🔊 **Text-to-Speech** – Improve accessibility with content read-aloud in multiple languages.
 - 📈 **Admin Analytics** – View user activity, payments, top courses, and system logs.
