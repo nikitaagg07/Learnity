@@ -59,7 +59,7 @@ npm start
 cd backend
 node server.js
 ```
-4. **Seed the database (optional)** // course.json
+4. **Seed the database (optional)** // backend->uploads->courses.json
 ```bash
 node seed.js
 ```
